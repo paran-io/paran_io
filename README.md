@@ -1,4 +1,6 @@
-### Hi there 👋
+![](https://github.com/paran-io/paran_io/blob/main/paran_banner.jpg)
+
+# Hi there 👋
 # 🚀 I'm Sa Ahnaf Paran!
 
 ### 🤵 About Me
@@ -19,7 +21,6 @@ I am a dedicated **Tech-Entrepreneur** and **Full-Stack Multi-Platform Software 
 
 ---
 
-![](https://github.com/paran-io/paran_io/blob/main/paran_banner.jpg)
 
 
 - 🔭 I’m currently working on  building industry-grade projects and refining my full-stack web development skills 
