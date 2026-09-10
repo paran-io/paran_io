@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://githubusercontent.com" alt="Sa Ahnaf Paran Banner" width="100%" />
+</p>
+
 # 🚀 Hi, I'm Sa Ahnaf Paran!
 
 ### 🤵 About Me
@@ -11,9 +15,9 @@ I am a dedicated **Tech-Entrepreneur** and **Full-Stack Multi-Platform Software 
 
 ### 🛠️ Core Tech Stack & Ecosystems
 
-* **Languages & Scripting:** Kotlin, Java, Python, PHP, JavaScript
+* **Languages & Scripting:** Kotlin, Java, JavaScript, Python, PHP, C, C++, HTML5, CSS3, XML, SQL
 * **Multi-Platform & UI Frameworks:** Jetpack Compose, Kotlin Multiplatform (KMP), Compose Multiplatform (CMP), Advanced XML Layouts
-* **Backend, APIs & Databases:** RESTful APIs, Node.js, PHP, Room Database, SQLite, MySQL, PostgreSQL
+* **Backend, APIs & Databases:** RESTful APIs, Node.js, PHP, Room Database,Firebase Realtime Database, Supabase, SQLite, MySQL, PostgreSQL
 * **Cloud & DevOps:** AWS (Amazon Web Services), Git & GitHub Actions, Firebase Services
 
 ---
