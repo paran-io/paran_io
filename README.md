@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://githubusercontent.com" alt="Sa Ahnaf Paran Banner" width="100%" />
+  <img src="https://github.com/paran-io/paran_io/blob/main/image_86182ad8.jpg" alt="Sa Ahnaf Paran Banner" width="100%" />
 </p>
 
 # 🚀 Hi, I'm Sa Ahnaf Paran!
