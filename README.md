@@ -1,11 +1,11 @@
-# 🚀 Hi, I'm Sa Ahnaf Paran!
+# 🚀 Hi, I'm Sahnaf Paran!
 
 ### 🤵 About Me
 I am a dedicated **Tech-Entrepreneur** and **Full-Stack Multi-Platform Software Engineer**. I design and build highly scalable, distributed software solutions across Mobile, Web, Desktop, and Cloud Infrastructure. 
 
-* 💻 Mastering modern ecosystems through **Neat Roots** (Advanced Android, Jetpack Compose, KMP) and **BongoAcademy** (Full-Stack, Backend Systems, Python & Cloud Technologies).
-* ⚙️ Focused on clean architecture, seamless cross-platform logic, and microservices.
-* 💡 Obsessed with Startup Innovation, Tech-Entrepreneurship, and product engineering.
+* 💻 Architecting advanced **Android Ecosystems** (Jetpack Compose, Kotlin Multiplatform - KMP, CMP) with full integration of scalable **Full-Stack Backend Systems** (Python, PHP).
+* ⚙️ Focused on clean software architecture, performance optimization, and robust RESTful API microservices.
+* 💡 Deeply interested in Startup Innovation, Tech-Entrepreneurship, and modern product engineering.
 
 ---
 
